@@ -4,14 +4,14 @@
 
 ## Build Setup
 
-### Required node.js!
+### სასურველია node.js-ის ბოლო ვერსია, ისნტალაციისას რაიმე ხარვეზი რომ არ იყოს.
 
 ``` bash
 # install dependencies
 $ npm install
 ```
 
-open nuxt.config.js and change this url if you have something else
+შემდეგ შედი nuxt.config.js და შეცვალე baseURL არსებული მისამართი, თუ განსხვავდება ქვემოთ არსებულისგან
 
 ``` bash
 axios: {
@@ -24,4 +24,4 @@ axios: {
 $ npm run dev
 ```
 
-username: admin@gmail.com password: 12345678
+მეილი: admin@gmail.com პაროლი: 12345678
